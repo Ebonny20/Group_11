@@ -1,0 +1,11 @@
+requirement
+
+tensorflow
+matplotlib
+pandas
+numpy
+streamlit 
+jupyter lab
+
+
+
